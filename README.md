@@ -15,7 +15,7 @@ Generic-Go-Cache is a generic, thread-safe in-memory cache library written in Go
 To install GoCache, run the following command:
 
 ```bash
-$ go get github.com/Zaki-Zak/Generic-Go-Cache
+$ go get github.com/MihoZaki/Generic-Go-Cache
 ```
 
 ## Usage
@@ -46,7 +46,7 @@ package main
 import (
     "fmt"
     "time"
-   cache "github.com/Zaki-Zak/Generic-Go-Cache"
+   cache "github.com/MihoZaki/Generic-Go-Cache"
 )
 
 func main() {
